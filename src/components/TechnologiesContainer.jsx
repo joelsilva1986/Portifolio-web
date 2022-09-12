@@ -13,7 +13,7 @@ import '../styles/components/technologiesContainer.sass'
 const technologies = [
     {id:"html", name:"HTML5", icon: <DiHtml5 />},
     {id:"css", name:"CSS3", icon: <DiCss3 />},
-    {id:"js", name:"JavaScript", icon: <DiJsBadge />},
+    {id:"js", name:"Javascript", icon: <DiJsBadge />},
     {id:"react", name:"ReactJS", icon: <DiReact />},
     {id:"typescript", name:"Typescript", icon: <SiTypescript />},
     {id:"next", name:"NextJS", icon: <TbBrandNextjs />},
